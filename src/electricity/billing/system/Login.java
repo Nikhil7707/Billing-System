@@ -1,3 +1,4 @@
+//this is a electric billing sysytem
 package electricity.billing.system;
 
 import javax.swing.*;
